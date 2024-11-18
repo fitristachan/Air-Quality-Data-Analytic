@@ -1,0 +1,11 @@
+Library yang perlu diinstall adalah
+1. os
+Untuk mengakses file-file dataset dari penyimpanan internal laptop
+2. pandas
+Untuk mengubah data menjadi dataset serta memanipulasi dan menganalisis data
+3. numpy
+Untuk melakukan perhitungan dan dibutuhkan ketika menjalankan beberapa fungsi pandas seperti mean
+4. geopandas
+5. matplotlib.pyplot
+6. scipy
+7. seaborn
